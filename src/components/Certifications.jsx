@@ -56,7 +56,7 @@ export default function Certifications() {
           onClick={() => handleRedirect("https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification")}
           style={{ cursor: "pointer" }}
         >
-          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="src/assets/azure dataf.png" alt="" />
+          <img className="h-auto max-w-full rounded-lg mb-10" style={{ maxWidth: '60%', height: 'auto' }} src="/azuredataf.png" alt="" />
           <p className="text-center text-lg">Microsoft - Azure Data Fondamentals </p>
         </motion.div>
         <motion.div
