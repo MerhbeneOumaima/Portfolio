@@ -53,7 +53,7 @@ export const PROJECTS = [
   },
   {
     title: "School management ",
-    images: ["/login.JPG", "src/assets/spring.JPG"],
+    images: ["/login.JPG", "/spring.JPG"],
     description:
       "I developed a school management system using Spring Boot, implementing both the administrative and user security modules. ",
     technologies: ["Spring Boot" ,"JWT", "Thymeleaf"],
