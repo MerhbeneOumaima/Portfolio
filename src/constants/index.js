@@ -10,8 +10,8 @@ export const HERO_CONTENT = `I am a motivated Full Stack Developer with expertis
 export const EXPERIENCES = [
   {
     year: "Jun 2024 - Aug 2024 ",
-    role: "Summer Internship - Junior Front End Developer",
-    company: "Continuous Net",
+    role: "Summer Internship -  Front End Developer",
+    company: "Gpro Consulting",
     description: `Developed and implemented a BI Dashboard for sales tracking.`,
     technologies: ["Postgresql", "Power BI"],
     imageUrl: '/gc.png' ,
@@ -19,7 +19,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Jun 2023 - Aug 2023 ",
-    role: "Summer Internship - Junior Front End Developer",
+    role: "Summer Internship -  Front End Developer",
     company: "Elite2Com",
     description: `Created three dashboards for a private school using Angular.`,
     technologies: ["Angular", "TypeScript", "Bootstrap"],
